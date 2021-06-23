@@ -44,3 +44,14 @@ line-height: 50px;
 #menu a:hover {
     border-bottom: 2px solid #555555;
 }
+/* Hero Image */
+#hero-outer {
+    height: 500px;
+    width: 100%;
+    overflow: hidden;
+}
+#hero-image {
+    height: 500px;
+    width: 100%;
+    background: url('../images/Main\ image.jpg') no-repeat center center;
+}
