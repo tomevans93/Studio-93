@@ -14,4 +14,7 @@ body {
 /* Headings and the logo */
 h1, h2 {
 font-family: open sans, sans-serif;
+text-transform: uppercase;
+color: #313131;
+letter-spacing: 5px;
 }
