@@ -18,3 +18,7 @@ text-transform: uppercase;
 color: #313131;
 letter-spacing: 5px;
 }
+#logo {
+    float:left;
+    font-size: 200%;
+}
