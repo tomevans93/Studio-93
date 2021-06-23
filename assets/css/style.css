@@ -20,5 +20,20 @@ letter-spacing: 5px;
 }
 #logo {
     float:left;
-    font-size: 200%;
+    font-size: 220%;
+}
+
+/* Navigation links */
+#menu {
+    letter-spacing: 5px;
+    float: right;
+    font-size: 140%;
+}
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 20px;
+}
+#menu #logo {
+
 }
