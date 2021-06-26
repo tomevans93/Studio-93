@@ -81,9 +81,12 @@ hr {
     text-align: center;
 }
 #timetable {
-    height: 500px;
+    height: 25%;
     width: 75%;
-    background: url('../images/Main\TIMETABLE-01.png') no-repeat center center;
+    background: url('../images/Main/TIMETABLE-01.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    margin: 0%;
 }
 
 /* Footer */
