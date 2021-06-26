@@ -55,3 +55,22 @@ line-height: 50px;
     width: 100%;
     background: url('../images/Main\ image.jpg') no-repeat center center;
 }
+/* Classes And Benefits */
+#our-classes {
+    font-size: 200%;
+    text-align: center;
+    padding: 2%;
+}
+#the-classes {
+    text-align: center;
+    padding-top: 30px;
+}
+#the-classes p {
+    margin-bottom: 20px;
+}
+hr {
+    width: 100%;
+    border-top: 2px solid #555555;
+    margin: 5px;
+    padding: 1%;
+}
