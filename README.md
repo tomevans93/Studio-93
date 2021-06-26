@@ -11,3 +11,5 @@ finally got back to where i need to be. Struggling with adding my next image. Bu
 
 just remembered to add the class as active to the different pages.
 
+Added the photos and checked they work, they do. So now i am playing around to see what will suit the page best in terms of shape. I have been consistent with the colour scheme and keeping the page look clean.
+

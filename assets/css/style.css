@@ -105,3 +105,12 @@ footer {
 .social-networks li {
     display: inline;
 }
+#photos {
+    clear: both;
+    column-count: 2;
+    column-gap: 0;
+    line-height: 0;
+}
+#photos > img {
+    width: 100%;
+}
