@@ -7,4 +7,7 @@ I have chopped and changed my font and probably will once i add more to my websi
 added hero image, it is visible to see but as soon as i add no repeat as it comes up twice it dissapears also with attempting to center the image it dissapears
 
 Just had a nasty reminder why to constantly commit and push to git. 2 hours of work.
+finally got back to where i need to be. Struggling with adding my next image. But as it is a clear point i am moving on.
+
+
 

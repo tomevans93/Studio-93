@@ -60,6 +60,7 @@ line-height: 50px;
     font-size: 200%;
     text-align: center;
     padding: 2%;
+    clear: both;
 }
 #the-classes {
     text-align: center;
@@ -74,9 +75,20 @@ hr {
     margin: 5px;
     padding: 1%;
 }
+/* Timetable */
+#class-times {
+    height: 500px;
+    text-align: center;
+}
+#timetable {
+    height: 500px;
+    width: 75%;
+    background: url('../images/Main\TIMETABLE-01.png') no-repeat center center;
+}
+
 /* Footer */
 footer {
-    height: 100px;
+    height: 250px;
 }
 .social-networks {
     text-align: center;
