@@ -9,5 +9,5 @@ added hero image, it is visible to see but as soon as i add no repeat as it come
 Just had a nasty reminder why to constantly commit and push to git. 2 hours of work.
 finally got back to where i need to be. Struggling with adding my next image. But as it is a clear point i am moving on.
 
-
+just remembered to add the class as active to the different pages.
 
