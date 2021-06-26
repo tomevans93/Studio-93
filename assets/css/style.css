@@ -74,3 +74,19 @@ hr {
     margin: 5px;
     padding: 1%;
 }
+/* Footer */
+footer {
+    height: 100px;
+}
+.social-networks {
+    text-align: center;
+}
+.social-networks i {
+    color: #555555;
+    padding: 2%;
+    margin: 3%;
+    font-size: 150%;
+}
+.social-networks li {
+    display: inline;
+}
