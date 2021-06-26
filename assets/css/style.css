@@ -9,6 +9,9 @@ body {
     font-family: lato, sans-serif;
     font-weight: 200;
     color: #555555;
+    background-image: url('../images/WALLPAPER.JPG'); 
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 /* Headings and the logo */
@@ -89,6 +92,7 @@ hr {
 #timetable-image {
     height: 500px;
     width: 10%;
+    background-image: url('../images/Main/TIMETABLE-01.png')
 }
 
 
