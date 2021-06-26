@@ -13,3 +13,7 @@ just remembered to add the class as active to the different pages.
 
 Added the photos and checked they work, they do. So now i am playing around to see what will suit the page best in terms of shape. I have been consistent with the colour scheme and keeping the page look clean.
 
+Added the photos to the zone page. Looks amazing as the theme has been so consistent. Unsure on how many to have in a column tried 2,3,4. Need second opinion
+
+Cannot get the timetable image to work. It somehow keeps dropping below the footer and i cannot change the size. 
+

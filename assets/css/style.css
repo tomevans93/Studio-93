@@ -80,14 +80,17 @@ hr {
     height: 500px;
     text-align: center;
 }
-#timetable {
-    height: 25%;
-    width: 75%;
-    background: url('../images/Main/TIMETABLE-01.png');
-    background-repeat: no-repeat;
+#timetable-outer {
+    height: 500px;
+    width: 100%;
+    overflow: hidden;
     position: absolute;
-    margin: 0%;
 }
+#timetable-image {
+    height: 500px;
+    width: 10%;
+}
+
 
 /* Footer */
 footer {
@@ -105,10 +108,12 @@ footer {
 .social-networks li {
     display: inline;
 }
+
+/* Gallery photos */
 #photos {
     clear: both;
-    column-count: 2;
-    column-gap: 0;
+    column-count: 3;
+    column-gap: 2px;
     line-height: 0;
 }
 #photos > img {
